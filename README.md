@@ -79,6 +79,8 @@ ensure gtaworld-hud
 | `/togglehud` | Toggle HUD on/off |
 
 ---
+<img width="567" height="83" alt="image" src="https://github.com/user-attachments/assets/d52e2b54-061b-4b4f-b54f-b04aa02c67e8" />
+
 
 ## 📄 License
 MIT License
